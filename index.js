@@ -73,4 +73,8 @@ module.exports = [
   'z-index',
   'align-items',
   'justify-content',
+  'max-width',
+  '-webkit-font-smoothing',
+  'object-fit',
+  'content',
 ]
