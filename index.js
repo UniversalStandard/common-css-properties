@@ -88,4 +88,6 @@ module.exports = [
   'grid-row',
   'grid-area',
   'grid-template-areas',
+  'overflow-x',
+  'white-space',
 ]
